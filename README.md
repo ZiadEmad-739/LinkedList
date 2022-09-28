@@ -1,1 +1,1 @@
-# Linked List Data Structure Implementation
+# LinkedList Data Structure Implementation
